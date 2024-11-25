@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Team A made a change
+=======
+Team B made a change
+>>>>>>> team-b-branch
